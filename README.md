@@ -1,17 +1,4 @@
-# iti_day_one_lab_two
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# iTi-Flutter-2-lab-day1" 
+# 2ed iTi Flutter Lab for day 1
+## Simple edit profile screen
+![Screenshot_20220828-235037](https://user-images.githubusercontent.com/58918060/187096680-536c23d3-aeef-44af-8c44-b32bb4aa5e5c.png)
